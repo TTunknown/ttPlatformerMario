@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c550231955bbf05489a5cf417ee2af13
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - flatSprite: {instanceID: 0}
+  - PlaySound: {fileID: 8300000, guid: fccef596fe0c10042a69bf3294a4e836, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
